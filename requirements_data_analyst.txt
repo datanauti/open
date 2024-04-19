@@ -1,0 +1,31 @@
+#########################
+### DATA MANIPULATION ###
+#########################
+numpy
+pandas
+polars
+
+#######################
+### DATA CONNECTORS ###
+#######################
+mysql-connector-python
+psycopg2-binary
+pymongo
+sqlalchemy
+
+##########################
+### DATA VISUALIZATION ###
+##########################
+matplotlib
+seaborn 
+altair
+graphviz
+plotly
+
+########################
+### MACHINE LEARNING ###
+########################
+scikit-learn
+xgboost
+scipy
+statsmodels
